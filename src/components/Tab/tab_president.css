@@ -1,0 +1,33 @@
+.div-container {
+    overflow: auto;
+    padding: 20px; /* Ajusta el valor según tus necesidades */
+    box-sizing: border-box; /* Asegura que el padding se incluya en el tamaño total del contenedor */
+    /* width: 100%; */
+  }
+
+  .tabs {
+    display: flex;
+    gap: 10px;
+    /* justify-content: space-around; */
+    margin-bottom: 20px;
+  }
+  
+  .tabs button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #e0e0e0;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 4px;
+  }
+  
+  .tabs button:hover {
+    background-color: #c0c0c0;
+  }
+  
+  .tab-content {
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    border-radius: 8px;
+  }

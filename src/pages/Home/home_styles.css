@@ -1,0 +1,45 @@
+body {
+  margin: 0; /* Asegúrate de que el body no tenga margen por defecto */
+  padding: 0; /* Asegúrate de que el body no tenga padding por defecto */
+  display: flex; /* Usa flexbox para centrar el contenido */
+  /* justify-content: center; 
+  align-items: center;  */
+  /* height: 100vh; */
+  background-color: #f0f0f0; /* Color de fondo opcional para la pantalla */
+}
+
+/* .board-container {
+  width: 100%;
+  max-width: 1000px;
+  padding: 20px; 
+  background-color: #fff; 
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+.tabs {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.tabs button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #e0e0e0;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.tabs button:hover {
+  background-color: #c0c0c0;
+}
+
+.tab-content {
+  padding: 20px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  border-radius: 8px;
+}
+   */

@@ -1,0 +1,49 @@
+.airports-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 1em;
+    font-family: 'Arial', sans-serif;
+    text-align: left;
+  }
+  
+  .airports-table th,
+  .airports-table td {
+    padding: 12px 15px;
+    border: 1px solid #dddddd;
+  }
+  
+  .airports-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+  }
+  
+  .airports-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+  }
+  
+  .airports-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+  }
+  
+  .airports-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+  }
+  
+  .airports-table tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .airports-table td[rowspan] {
+    vertical-align: middle;
+  }
+  
+  .airports-table td {
+    text-align: center;
+  }
+  
+  .airports-table th {
+    text-align: center;
+  }

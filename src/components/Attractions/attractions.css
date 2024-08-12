@@ -1,0 +1,31 @@
+
+.container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .attractions-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .attractions-table th,
+  .attractions-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .attractions-table th {
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  .attractions-table td {
+    background-color: #fafafa;
+  }
