@@ -4,8 +4,11 @@ Sitio web desarrollado [React](https://es.react.dev/) , [JavaScript](https://dev
 
 
 #  Descripción
-This project is an app capable of registering, displaying, updating, and deleting data obtained through a form, using local storage as the storage system. It also includes a login window that performs credential validations.
+El proyecto consiste en la creación de un dashboard para el agrupamiento, ordenamiento y visualización de datos obtenidos a partir de una [API](https://api-colombia.com/). El dashboard tiene 3 pestañas (airports,attractions y presidents) . 
 
+El proyecto como ya se dijo anteriormente,se desarrolló utilizando ReactJS, se hizo uso buenas prácticas a la hora de hacer el desarrollo,tratando que el proyecto sea lo más ordenado, legible y fácil de escalar de cada al futuro.
+
+Durante el desarrollo se implementaron algunas de las funcionalidades de React;React context, el uso de componentes,los hooks ,además de algunos paquetes como React-Router-Dom para el manejo de las rutas, y loadesh para el agrupamiento de los datos.
 
 # Configuración
 
@@ -28,4 +31,5 @@ This project is an app capable of registering, displaying, updating, and deletin
 
 
 El servidor local deberia estar funcionando, puede acceder a el en el siguiente enlace :
-http://localhost:5173/
+http://localhost:5173/ ó http://localhost:5173/colombia_dash
+
