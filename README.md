@@ -1,6 +1,6 @@
 # Colombian_API
 
-Sitio web desarrollado [React](https://es.react.dev/) , [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) and styled with  [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS).
+Sitio web desarrollado [React](https://es.react.dev/) , [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) y estilizado con  [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS).
 
 
 #  Descripción
